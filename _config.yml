@@ -1,3 +1,6 @@
-theme: just-the-docs
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme 
 title: Ihsan Praditya's Page
-description: Website Ihsan Praditya
+description: Tahfizh, Nahwu, C++
+github: [metadata]
