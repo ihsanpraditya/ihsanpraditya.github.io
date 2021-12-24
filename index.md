@@ -11,16 +11,20 @@ layout: default
 **Al-Qur'an**
 
 [Al-Qur'an Online](https://quran.com/)  
+[Al-Qur'an Kemenag Online](https://quran.kemenag.go.id/)
 [Murottal Online](https://quranicaudio.com/)  
 [Download Murottal Syaikh Mishari](alquran/2021-12-24-murottal.md)  
 [I'rob Al-Qur'an](https://corpus.quran.com/wordbyword.jsp)
+[Tafsir Indonesia
+[Al-Qur'an: Database](https://qurandb.com/) Online](http://www.tafsir.web.id/p/daftar-isi.html?m=1)
+[Tafsir Online](https://tafsir.app/)
 
 
 
 **Hadits**
 
 [Hadits Online](https://sunnah.com/): English & Urdu  
-[Dummy Link](#)  
+[Nyari Hadits](https://sunnah.one/)  
 [Dummy Link](#)  
 
 **Aqidah**
@@ -33,34 +37,34 @@ layout: default
 
 **Kajian**
 
-[Dummy Link](#)  
-[Dummy Link](#)  
-[Dummy Link](#)  
+[Ustadz Dzulqarnain As-Sanusi](kajian/2021-12-24-dzulqarnain-sanusi.md)  
+[Fiqih Asy-Syafi'i](https://t.me/elghizi)  
+[Kumpulan Kajian](kajian/2021-12-24-kumpulan1.md)  
 
 **PDF agama**
 
-[Dummy Link](#)  
+[Waqfeya](https://waqfeya.com)  
 [Dummy Link](#)  
 [Dummy Link](#)  
 
 
 **Web Agama**
 
-[Dummy Link](#)  
+[](#)  
 [Dummy Link](#)  
 [Dummy Link](#)  
 
 **Aplikasi Agama**
 
 [Belajar membaca Al-Qur'an](https://www.tarteel.ai/)  
+[Maktabah Syamilah Online](https://ketabonline.com)  
 [Dummy Link](#)  
 [Dummy Link](#)  
 
 **Aplikasi Web Agama**
 
 [Jadwal shalat](https://salah.com/)  
-[Dummy Link](#)  
-[Dummy Link](#)  
+[Maktabah Syamilah Online](https://app.turath.io/)  
 
 ## Umum
 
