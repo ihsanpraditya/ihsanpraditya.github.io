@@ -1,6 +1,8 @@
 remote_theme: pages-themes/slate@v0.2.0
+#remote_theme: pmarsceill/just-the-docs
 plugins:
 - jekyll-remote-theme 
-title: Ihsan Praditya's Page
-description: Tahfizh, Nahwu, C++
+title: KumPelNet
+description: Kumpulan Pelajaran di Internet
 github: [metadata]
+page_excerpts: true
