@@ -9,14 +9,17 @@ layout: default
 
 **Al-Qur'an**  
 [Al-Qur'an Online](https://quran.com/)  
-[Al-Qur'an Kemenag Online](https://quran.kemenag.go.id/)  
+[Al-Qur'an Kemenag Online](https://quran.kemenag.go.id/)
+
 [Murottal Online](https://quranicaudio.com/) : en  
 [Download Murottal Syaikh Mishari](hafalan/murottal.md)  
-[Download Murottal Para Qari'](https://tilawa.org/) : ar  
+[Download Murottal Para Qari'](https://tilawa.org/) : ar
+
 [I'rob Al-Qur'an](https://corpus.quran.com/wordbyword.jsp)  
 [Tafsir Indonesia Online](http://www.tafsir.web.id/p/daftar-isi.html?m=1)  
-[Al-Qur'an: Database](https://qurandb.com/) 
-[Tafsir Online](https://tafsir.app/)
+[Tafsir Online](https://tafsir.app/)  
+
+[Al-Qur'an: Database](https://qurandb.com/)  
 
 **Hadits**  
 [Hadits Online](https://sunnah.com/): English & Urdu  

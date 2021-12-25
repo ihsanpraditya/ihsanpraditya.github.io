@@ -5,7 +5,7 @@ layout: default
 
 Website ini adalah publikasi/penerbitan dari channel [Telegram](https://telegram.org) saya yaitu [KumPelGram](https://t.me/kumpelgram) (Kumpulan Pelajaran Telegram) karena tidak semua keluarga dan teman-teman saya mengerti atau menggunakan Aplikasi Telegram.
 
-Channel itu berisi kumpulan link-link yang dikumpulkan dari berbagai sumber: pencarian pribadi, kiriman teman, konten [Instagram](https://instagram.com), pesan _forwarded_ di [WhatsApp](https://whatsapp.com), dan sumber lainnya.
+Channel itu berisi kumpulan link-link yang dikumpulkan dari berbagai sumber: pencarian pribadi, kiriman teman, konten [Instagram](https://instagram.com/ihsan.praditya/), pesan _forwarded_ di [WhatsApp](https://whatsapp.com), dan sumber lainnya.
 
 Saya berhati-hati dalam memasukkannya ke halaman ini. Acuan adalah 3 hal: Al-Qur'an dan As-Sunnah. Selama tidak menyelisihi keduanya, dan belum ada link yang serupa maka akan saya masukkan ke dalam halaman ini.
 
