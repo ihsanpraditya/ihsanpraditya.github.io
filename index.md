@@ -33,6 +33,10 @@ layout: default
 
 **Fiqih**  
 [Kumpulan Pelajaran Fiqih](https://alfiqh.net/)
+[Belajar Fiqih Syafi'i di Telegram](https://t.me/elghizi) : ar  
+[Madinah Salam](kajian/madinah-salam.md)
+
+
 **Mutun**  
 [Mutun Thalib Ilmi](hafalan/mutun.md)
 
