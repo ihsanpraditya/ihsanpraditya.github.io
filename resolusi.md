@@ -37,6 +37,3 @@ how-to-study.com
 
 # excel
 https://sheethacks.com/
-
-# cek keamanan website
-https://securityheaders.com/
