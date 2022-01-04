@@ -37,3 +37,6 @@ how-to-study.com
 
 # excel
 https://sheethacks.com/
+
+# tutorial
+https://www.wpbeginner.com/
