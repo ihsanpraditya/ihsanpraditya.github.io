@@ -71,6 +71,8 @@ https://www.englishclub.com
 https://www.geeksforgeeks.org/
 https://isocpp.org/
 https://www.kawankoding.id/
+- lainnya
+https://itkoding.com/
 
 ---
 
@@ -136,6 +138,9 @@ https://github.com/ronreiter/interactive-tutorials (kumpulan link tutorial)
 https://www.kawankoding.com/ (bahasa Indonesia)
 https://www.petanikode.com/tutorial/
 https://codesaya.com/
+https://www.dicoding.com/
+https://jagongoding.com/
+https://www.codepolitan.com/
 
 ### Hacking
 https://www.hackingloops.com/
