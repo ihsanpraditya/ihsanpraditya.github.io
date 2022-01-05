@@ -43,7 +43,9 @@ https://h5p.org/
 https://www.netlifycms.org/
 
 ### cek website
-https://ns.tools/
+https://ns.tools/ (cek dns)
+https://en.ryte.com/website-checker/ (cek isi dan performa)
+https://www.capuraca.com/2015/02/cara-mengecek-kesehatan-blog.html?m=1 (tips tricks)
 ---
 
 # pendidikan
@@ -67,6 +69,8 @@ https://typoonline.com/
 ### club / kelompok / komunitas belajar
 https://www.englishclub.com
 https://www.geeksforgeeks.org/
+https://isocpp.org/
+https://www.kawankoding.id/
 
 ---
 
@@ -77,6 +81,7 @@ https://e-resources.perpusnas.go.id/
 
 ### Sumber Materi Belajar SMA
 https://www.studiobelajar.com/
+https://soalkimia.com/
 
 ### Referensi inggris dan bank soal
 https://www.englishpage.com/
@@ -90,6 +95,12 @@ https://hackingcpp.com/
 ### Aplikasi
 https://www.geeksforgeeks.org/top-10-useful-github-repos-that-every-developer-should-follow/?ref=lbp
 https://awesomeopensource.com/
+https://portableapps.com/
+
+
+https://itkoding.com/tentang-kami/
+
+
 
 ---
 
@@ -115,10 +126,16 @@ https://learnenglish.britishcouncil.org/
 https://www.wpbeginner.com/
 
 ### belajar bahasa pemrograman
+https://www.duniailkom.com/
+https://www.kawankoding.id/menjadi-programmer-pemula-ini-tipsnya/ (tips pemula)
 https://progate.com/courses/
 https://www.sololearn.com/
 https://www.codingninjas.com/
 https://www.youtube.com/playlist?list=PLZS-MHyEIRo4Ze0bbGB1WKBSNMPzi-eWI (C++ Pemula - Kelas Terbuka)
+https://github.com/ronreiter/interactive-tutorials (kumpulan link tutorial)
+https://www.kawankoding.com/ (bahasa Indonesia)
+https://www.petanikode.com/tutorial/
+https://codesaya.com/
 
 ### Hacking
 https://www.hackingloops.com/
@@ -129,3 +146,9 @@ https://openvim.com/
 
 ### CPP
 https://www.cprogramming.com/
+
+### FreeBSD
+https://musaamin.web.id/seri-tutorial-freebsd/
+
+### Laravel
+https://kelaslaravel.com/
