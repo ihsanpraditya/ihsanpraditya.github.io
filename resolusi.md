@@ -19,6 +19,42 @@ https://www.youtube.com/user/alfadhl87
 https://www.youtube.com/channel/UCqvGyfFJkz-kXpSYY6Hy0mg
 https://www.youtube.com/channel/UCZHbLWGrq43F0-5Ef37CpWQ
 https://www.youtube.com/channel/UC_-janXdWHqHu0_bmPpwunQ
+syekh.com
+https://40hadithnawawi.com/
+https://abdurrahman.org/
+https://dawin.io/
+https://dzikirpagidanpetang.com/
+https://www.rumahzakat.org/id/homepage/
+https://hisnmuslim.com/i/ar/1
+https://aladzkar.sch.id/
+
+https://turath.co.uk/publications/al-arbain-elucidation-forty-hadiths-marriage/
+
+https://pusatalquran.org/2017/05/08/hadits-arbain-ke-35-tentang-ukhuwah-dan-hak-hak-muslim/
+
+https://kitabpdf.warisansalaf.com/tag/download-syarah-arbain-nawawi-pdf/
+
+https://hadithcommentary.com/nawawi/hadith26/
+
+https://carihadis.com/Arbain_Nawawi_I/8
+
+https://penaungu.com/hadits-arbain-pdf/
+
+https://www.terjemahmatan.com/2015/11/Hadits-Arbain-Nawawi-Matan-dan-Terjemah.html?m=0
+
+https://www.muslim-library.com/dl/books/30_Hadith_for_Children.pdf
+
+https://ahadith.co.uk/
+
+https://bersamadakwah.net/arbain-nawawi-12/
+
+https://haditsarbain.com/
+
+https://athkar.co/
+
+https://www.rumahzakat.org/id/homepage/
+
+https://dzikirpagidanpetang.com/
 
 # umum
 
