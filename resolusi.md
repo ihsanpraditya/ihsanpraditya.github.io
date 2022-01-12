@@ -59,11 +59,20 @@ https://dzikirpagidanpetang.com/
 # umum
 
 ## alat bantu
-
+rapidapid.com
+https://xinshangshangxin.com/stylie/
+https://jeremyckahn.github.io/stylie/
+https://paletton.com/
+https://www.cleancss.com/
+https://devhints.io/
+https://csslayout.io/
 ### cek website mobipe friendly
 https://search.google.com/test/mobile-friendly
 
 ## channel youtube
+
+belajar hidroponik
+https://youtube.com/playlist?list=PL0z-fJm299GxBjYgN85FZqxkDoRhxubGx
 
 vlog arab
 https://www.youtube.com/channel/UCKi8gBszFYOhf1oG_cqaQfw
