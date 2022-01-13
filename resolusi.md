@@ -73,7 +73,12 @@ https://search.google.com/test/mobile-friendly
 
 belajar hidroponik
 https://youtube.com/playlist?list=PL0z-fJm299GxBjYgN85FZqxkDoRhxubGx
+https://youtube.com/playlist?list=PLUbqIWVCdtcn7eguzwnPHk-iAjV40k5ui
 
+
+
+daily english conversation
+https://youtube.com/playlist?list=PLGADZrN0raFAlI1AkCpX2vItrusLlXW-x
 vlog arab
 https://www.youtube.com/channel/UCKi8gBszFYOhf1oG_cqaQfw
 
