@@ -66,6 +66,18 @@ https://paletton.com/
 https://www.cleancss.com/
 https://devhints.io/
 https://csslayout.io/
+
+### buat developer
+https://http.cat/
+https://cssreference.io/
+https://freefrontend.com/
+https://css-tricks.com/
+https://codemyui.com/
+https://htmlreference.io/
+https://devdocs.io/
+https://daily.dev/
+https://1loc.dev/
+
 ### cek website mobipe friendly
 https://search.google.com/test/mobile-friendly
 
