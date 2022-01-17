@@ -77,6 +77,18 @@ https://htmlreference.io/
 https://devdocs.io/
 https://daily.dev/
 https://1loc.dev/
+http://ami.responsivedesign.is/
+https://www.theodinproject.com/
+https://www.codewars.com/
+https://cssauthor.com CSS Author is a Design and Development related blog for Web Designers and Developer’s .
+https://laracasts.com/
+https://trianglify.io/
+https://csslayout.io/
+https://www.sitepoint.com/
+https://www.free-css.com/
+https://pythonawesome.com/
+https://fun-javascript-projects.com/
+https://tutsplus.com/
 
 ### cek website mobipe friendly
 https://search.google.com/test/mobile-friendly
@@ -156,6 +168,7 @@ https://www.youtube.com/channel/UCxS1B0ke34LO0_eZ91iY0Kw
 https://www.youtube.com/channel/UCKnRD6B2nD9_FJ54iwITJHg
 https://www.youtube.com/channel/UCnqBUB7gk6Y0mSNcFwHFyGg
 https://www.youtube.com/user/MrRadoq
+https://hijaudaun.net/
 
 Life Hacks, Enginering, Eksperimen Sains, Social Experimen
 https://www.youtube.com/user/gudangtutorial
