@@ -58,6 +58,8 @@ https://dzikirpagidanpetang.com/
 
 # umum
 
+## Belajar bahasa
+https://www.thefreedictionary.com/
 ## alat bantu
 rapidapid.com
 https://xinshangshangxin.com/stylie/
@@ -89,7 +91,10 @@ https://www.free-css.com/
 https://pythonawesome.com/
 https://fun-javascript-projects.com/
 https://tutsplus.com/
-
+https://www.eplusgo.com/daftar-proyek-open-source-indonesia/
+https://www.eplusgo.com/
+https://github.com/GitIndonesia/awesome-indonesia-repo
+https://opensource.guide/
 ### cek website mobipe friendly
 https://search.google.com/test/mobile-friendly
 
@@ -179,6 +184,8 @@ https://www.youtube.com/channel/UCSg-Y9uI1E-my-I4WKKioEQ
 https://www.youtube.com/channel/UC_eifcIIjgN8Q_8m34nWo3Q
 https://www.youtube.com/channel/UCCFY2uB8liUM4cnCCkUC6GA
 
+channel Coding yutub
+Flutter: Erico Darmawan Handoyo, dosen Universitas Kristen Maranata
 Sport
 https://www.youtube.com/channel/UCeJFgNahi--FKs0oJyeRDEw
 https://www.youtube.com/channel/UCCvnoziYm6QBMCxG8m59u-g
