@@ -203,5 +203,35 @@ https://www.youtube.com/channel/UCnOf30K0d0e8M7mc4FUzR0A
 https://www.youtube.com/channel/UCMCbTLHW5GXsxKMkOelX6-w
 https://www.youtube.com/channel/UCu0yQD7NFMyLu_-TmKa4Hqg
 
+Programmer
 https://tableplus.com/
 https://glitch.com/
+https://www.w3docs.com/
+https://w3layouts.com/
+https://www.w3resource.com/
+https://www.w3.org/
+https://www.codeguru.com/
+http://www.cplusplus.org/
+https://www.stroustrup.com/
+https://www.cpp.edu/~zaliyazici/ece114/related.html
+https://www.hackerone.com/
+https://devblogs.microsoft.com/cppblog/
+https://root.cern/
+https://exercism.org/
+https://www.doxygen.nl
+https://html.com/
+http://dlib.net/
+https://openframeworks.cc/
+
+
+library c++
+https://pocoproject.org/
+https://www.boost.org/
+http://www.open-std.org/
+
+cari kerja
+https://www.learn4good.com/
+https://www.jobsite.co.uk/
+https://www.toptal.com/
+
+https://humanappeal.org.uk/
