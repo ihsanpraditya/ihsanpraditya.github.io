@@ -202,3 +202,6 @@ Wawasan
 https://www.youtube.com/channel/UCnOf30K0d0e8M7mc4FUzR0A
 https://www.youtube.com/channel/UCMCbTLHW5GXsxKMkOelX6-w
 https://www.youtube.com/channel/UCu0yQD7NFMyLu_-TmKa4Hqg
+
+https://tableplus.com/
+https://glitch.com/
