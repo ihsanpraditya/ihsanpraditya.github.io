@@ -15,3 +15,5 @@ gem "webrick", "~> 1.7"
 # gem "jekyll-feed"
 
 gem "github-pages", group: :jekyll_plugins
+
+gem "jekyll-tidy", "~> 0.2.2"
