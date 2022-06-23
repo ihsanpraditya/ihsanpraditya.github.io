@@ -1,8 +1,13 @@
-remote_theme: just-the-docs/just-the-docs
+remote_theme: samarsault/texture
 plugins:
 - jekyll-remote-theme 
 - jekyll-tidy
-title: Dokunet
-description: Dokumentasi Internet
 github: [metadata]
 page_excerpts: true
+texture:
+  title: Ihsan Praditya
+  tagline: Dokumentasi
+  date_format: "%d %-b, %Y"
+  style: green
+
+exclude: ['images', 'files', 'vendor']

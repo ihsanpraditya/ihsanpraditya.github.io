@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/style.css">
+<title>Konfigurasi VIM</title>
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Konfigurasi VIM | ihsanpraditya.github.io</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Konfigurasi VIM" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://localhost:4000/posts/2022-06-23-konfigurasi-vim.html" />
+<meta property="og:url" content="http://localhost:4000/posts/2022-06-23-konfigurasi-vim.html" />
+<meta property="og:site_name" content="ihsanpraditya.github.io" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Konfigurasi VIM" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/posts/2022-06-23-konfigurasi-vim.html","headline":"Konfigurasi VIM","@type":"WebPage","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+</head>
+<body>
+  <header class="texture-green">
+    <div class="container"></div><div class="container">
+	<h1>Konfigurasi VIM</h1>
+	<h4 class="post-description"></h4>
+	<div class="post-date" style="margin-top:20px">
+		Published on 
+	</div>
+	<ul class="post-tags"></ul>
+</div>
+</header>
+  <main>
+    <div class="container">
+      <div class="post-container">
+          <h1 id="konfigurasi-vim">Konfigurasi VIM</h1>
+
+<p>untuk aplikasi <a href="https://neovim.io/">Neovim/Nvim</a>, bisa juga untuk <a href="https://www.vim.org/">Vim</a>.</p>
+
+<p>Kebanyakan saya menggunakan bahasa Indonesia sebagai petunjuk dalam bentuk komentar.</p>
+
+<p>Salah satu tampilannya:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>" NUMBER
+set number
+augroup numbertoggle
+  autocmd!
+  autocmd BufEnter,FocusGained,InsertLeave,WinEnter * if &amp;nu &amp;&amp; mode() != "i" | set rnu   | endif
+  autocmd BufLeave,FocusLost,InsertEnter,WinLeave   * if &amp;nu                  | set nornu | endif
+augroup END
+
+" COLORSCHEME
+set tgc " agar warna base15 nya nyala
+set background=dark
+colo desert
+" light color: zellner, peachpuff, shine(dont use),morning, delek, PaperColor
+
+" TRANSPARENT
+" hi Normal ctermbg=NONE guibg=NONE
+" hi NonText ctermbg=NONE guibg=NONE guifg=NONE ctermfg=NONE
+
+map &lt;esc&gt; :noh &lt;CR&gt;
+sy on
+set synmaxcol=120
+" set nowrap
+set noshowmode
+set noswapfile  
+set shiftwidth=4  
+</code></pre></div></div>
+
+<p>Lebih lanjut silakan lihat <a href="https://github.com/ihsanpraditya/ihsanpraditya.github.io/tree/main/files/init.vim">disini</a>.</p>
+
+<p>Saya tidak menjelaskan panjang lebar dengan komentar di dalam init.vim, karena saya ingin membuat videonya di <a href="https://m.youtube.com/channel/UCy6dWhcb_pWIUvuSjs6bxWw">channel YouTube</a>. Silakan jika ingin bertanya bisa melalu <a href="https://t.me/ihsan_praditya">Telegram</a>.</p>
+
+<p>Lebih lanjut silakan tonton video berikut dari <a href="https://youtube.com/IndonesiaBelajarKomputer">Indonesia Belajar</a>,<br />
+<a href="https://m.youtube.com/watch?v=FLslTw9c8ik"><img src="https://github.com/ihsanpraditya/ihsanpraditya.github.io/tree/main/images/vimrc-indonesia-belajar.jpeg" alt="Konfigurasi VIMRC" /></a></p>
+
+<p>Video lainnya dari <a href="https://youtube.com/IndonesiaBelajarKomputer">Indonesia Belajar</a> mengenai VIM, <a href="https://m.youtube.com/playlist?list=PL2O3HdJI4voE_mHibdvrDqNj_vZaKCZGC">disini</a>.</p>
+
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+
+      </div>
+
+        <!-- Configure Disqus --></div>
+  </main></body>
+</html>
