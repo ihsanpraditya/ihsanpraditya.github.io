@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Konfigurasi VIM"
-tagline: none
 ---
 
 # Konfigurasi VIM
