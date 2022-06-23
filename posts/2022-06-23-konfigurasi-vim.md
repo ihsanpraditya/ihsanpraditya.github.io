@@ -45,7 +45,7 @@ Lebih lanjut silakan lihat [disini](https://github.com/ihsanpraditya/ihsanpradit
 Saya tidak menjelaskan panjang lebar dengan komentar di dalam init.vim, karena saya ingin membuat videonya di [channel YouTube](https://m.youtube.com/channel/UCy6dWhcb_pWIUvuSjs6bxWw). Silakan jika ingin bertanya bisa melalu [Telegram](https://t.me/ihsan_praditya).  
 
 Lebih lanjut silakan tonton video berikut dari [Indonesia Belajar](https://youtube.com/IndonesiaBelajarKomputer),  
-[![Konfigurasi VIMRC](https://github.com/ihsanpraditya/ihsanpraditya.github.io/tree/main/images/vimrc-indonesia-belajar.jpeg)](https://m.youtube.com/watch?v=FLslTw9c8ik)  
+[![Konfigurasi VIMRC](https://raw.githubusercontent.com/ihsanpraditya/ihsanpraditya.github.io/master/images/vimrc-indonesia-belajar.jpeg)](https://m.youtube.com/watch?v=FLslTw9c8ik)  
 
 Video lainnya dari [Indonesia Belajar](https://youtube.com/IndonesiaBelajarKomputer) mengenai VIM, [disini](https://m.youtube.com/playlist?list=PL2O3HdJI4voE_mHibdvrDqNj_vZaKCZGC).  
 

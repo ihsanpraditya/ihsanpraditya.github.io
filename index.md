@@ -8,10 +8,11 @@ Pada laman [Github Pages](https://pages.github.com/) saya mendokumentasikan tuli
 
 Postingan pertama, [Konfigurasi VIM](posts/2022-06-23-konfigurasi-vim.md)
 
-Saya memakai aplikasi [Jekyll](https://jekyllrb.com/) untuk menampilkan website saya. Konfigurasi tampilan Jekyll bisa dilihat di website (resminya)[https://jekyllrb.com/], lainnya di [Layouts in Jekyll](https://cloudcannon.com/community/learn/jekyll-tutorial/introduction-to-jekyll-layouts/).
+Saya memakai aplikasi [Jekyll](https://jekyllrb.com/) untuk menampilkan website saya. Konfigurasi tampilan Jekyll bisa dilihat di website [resminya](https://jekyllrb.com/), lainnya di [Layouts in Jekyll](https://cloudcannon.com/community/learn/jekyll-tutorial/introduction-to-jekyll-layouts/).
 
 Untuk membantu bekerja dan belajar [Vim](https://www.vim.org/), saya menggunakan terminal [Alacritty](https://alacritty.org/). Terminalnya multiplatform sehingga bisa dipasang di komputer anda. Ringan dan mudah konfigurasinya, lihat [konfigurasi saya](https://github.com/ihsanpraditya/ihsanpraditya.github.io/tree/main/files/alacritty.yml).  
 
+[![Alacritty Image](https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png)](https://alacritty.org/)
 <pre>
 
 
