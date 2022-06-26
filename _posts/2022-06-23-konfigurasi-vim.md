@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Konfigurasi VIM"
+category: computer
+tags: konfigurasi vim
 ---
 
 # Konfigurasi VIM
@@ -41,7 +43,7 @@ set shiftwidth=4
 
 Lebih lanjut silakan lihat [disini](https://github.com/ihsanpraditya/ihsanpraditya.github.io/tree/main/files/init.vim).
 
-Saya tidak menjelaskan panjang lebar dengan komentar di dalam init.vim, karena saya ingin membuat videonya di [channel YouTube](https://m.youtube.com/channel/UCy6dWhcb_pWIUvuSjs6bxWw). Silakan jika ingin bertanya bisa melalu [Telegram](https://t.me/ihsan_praditya).  
+Saya tidak menjelaskan panjang lebar dengan komentar di dalam init.vim, karena saya ingin membuat videonya di [channel YouTube](https://m.youtube.com/channel/UCy6dWhcb_pWIUvuSjs6bxWw). Silakan jika ingin bertanya bisa melalui [Telegram](https://t.me/ihsan_praditya).  
 
 Lebih lanjut silakan tonton video berikut dari [Indonesia Belajar](https://youtube.com/IndonesiaBelajarKomputer),  
 [![Konfigurasi VIMRC](https://raw.githubusercontent.com/ihsanpraditya/ihsanpraditya.github.io/master/images/vimrc-indonesia-belajar.jpeg)](https://m.youtube.com/watch?v=FLslTw9c8ik)  

@@ -9,5 +9,13 @@ texture:
   tagline: Dokumentasi
   date_format: "%d %-b, %Y"
   style: green
+  showNav: true
+  navigation:
+    - title: Home
+      url: "/"
+    - title: About
+      url: "/pages/about"
+  showPicker: false
+  disqus_shortname: games
 
 exclude: ['images', 'files', 'vendor']
